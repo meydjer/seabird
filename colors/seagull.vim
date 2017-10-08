@@ -32,7 +32,7 @@ hi HelpExample                             cterm=NONE  ctermfg=10  guifg=#61707a
 hi Identifier                              cterm=NONE  ctermfg=4  guifg=#0099ff  gui=NONE
 hi IncSearch                               cterm=standout  ctermfg=9  gui=standout  guifg=#ff6200
 hi LineNr                                  cterm=NONE  ctermfg=14  ctermbg=7  guifg=#808487  guibg=#e6eaed  gui=NONE
-hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gui=NONE  guifg=#ff4053  guibg=#808487  gui=NONE
+hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gui=NONE  guifg=#ffffff  guibg=#11ab00  gui=NONE
 hi ModeMsg                                 cterm=NONE  ctermfg=4  guifg=#0099ff  gui=NONE
 hi MoreMsg                                 cterm=NONE  ctermfg=4  guifg=#0099ff  gui=NONE
 hi NonText                                 cterm=NONE  ctermfg=12  gui=NONE  guifg=#787e82  gui=NONE
